@@ -1,6 +1,13 @@
 body {
     padding: 2rem 1rem;
+    font-family: Arial, sans-serif;
 }
+
+
+table {
+    display: inline-block;
+}
+
 
 .large {
     font-size: 120%;
